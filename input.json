@@ -1,0 +1,2524 @@
+{
+    "version": "20131101",
+    "logo": "http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif",
+    "title": "알라딘 검색결과 - 프로그래밍",
+    "link": "http://www.aladin.co.kr/search/wsearchresult.aspx?KeyWord=%c7%c1%b7%ce%b1%d7%b7%a1%b9%d6&SearchTarget=book&partner=openAPI",
+    "pubDate": "Mon, 29 Jan 2024 10:08:48 GMT",
+    "totalResults": 4970,
+    "startIndex": 1,
+    "itemsPerPage": 50,
+    "query": "프로그래밍",
+    "searchCategoryId": 0,
+    "searchCategoryName": "전체",
+    "item": [
+        {
+            "title": "윤성우의 열혈 C 프로그래밍 - 개정판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8016119&partner=openAPI&start=api",
+            "author": "윤성우 (지은이)",
+            "pubDate": "2010-11-01",
+            "description": "2003년 발행된「열혈 C 프로그래밍」의 개정판으로, 강의가 필요 없을 만큼 쉽게 설명되어 있는 책이다. 하지만 강의가 필요한 독자들을 위해서 저자가 직접 본 도서의 내용을 강의한다. 책만큼 유명한 이 강의와 함께 한다면 누구나 C언어를 쉽게 공부할 수 있을 것이다.",
+            "isbn": "8996094056",
+            "isbn13": "9788996094050",
+            "itemId": 8016119,
+            "priceSales": 22500,
+            "priceStandard": 25000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1250,
+            "cover": "https://image.aladin.co.kr/product/801/61/cover/8996094056_1.jpg",
+            "categoryId": 6385,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>C",
+            "publisher": "오렌지미디어",
+            "salesPoint": 24506,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 9,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 5,
+                        "minPrice": 13700,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=8016119&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 232,
+                        "minPrice": 3000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=8016119&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 15,
+                        "minPrice": 11200,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=8016119&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "윤성우의 열혈 C++ 프로그래밍 - 개정판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6960708&partner=openAPI&start=api",
+            "author": "윤성우 (지은이)",
+            "pubDate": "2010-05-14",
+            "description": "2004년도에 출간된 윤성우 저자 「열혈 C++ 프로그래밍」의 개정판. 초판과 마찬가지로 C언어를 이해하고 있다는 가정하에서 집필된 C++ 기본서로서, 초보자에게 적절한 설명과 예제를 통해서 C++ 학습에 재미를 더하고 있다.\n",
+            "isbn": "8996094048",
+            "isbn13": "9788996094043",
+            "itemId": 6960708,
+            "priceSales": 24300,
+            "priceStandard": 27000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1350,
+            "cover": "https://image.aladin.co.kr/product/696/7/cover/8996094048_1.jpg",
+            "categoryId": 6386,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>C++",
+            "publisher": "오렌지미디어",
+            "salesPoint": 14472,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 9,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=6960708&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 77,
+                        "minPrice": 8300,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=6960708&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 15,
+                        "minPrice": 14700,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=6960708&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "Do it! Node.js 프로그래밍 입문 - 쉽고 빠르게 달리는 백엔드 개발",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328495186&partner=openAPI&start=api",
+            "author": "고경희 (지은이)",
+            "pubDate": "2023-11-10",
+            "description": "노드제이에스 입문자가 백엔드 서버 개발자라는 도착점에 한눈팔지 않고 골인할 수 있도록 도와준다. 웹 분야 1위 저자의 노하우로 서버 개발의 핵심만 담아 지치지 않고 단숨에 백엔드 서버 개발을 완주할 수 있다.",
+            "isbn": "K582936816",
+            "isbn13": "9791163035244",
+            "itemId": 328495186,
+            "priceSales": 32400,
+            "priceStandard": 36000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1800,
+            "cover": "https://image.aladin.co.kr/product/32849/51/cover/k582936816_1.jpg",
+            "categoryId": 6357,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>프로그래밍 언어 기타",
+            "publisher": "이지스퍼블리싱",
+            "salesPoint": 800,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "seriesInfo": {
+                "seriesId": 28311,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=28311&partner=openAPI",
+                "seriesName": "Do it! 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 328606040,
+                        "isbn": "E532532695",
+                        "isbn13": "9791163035299",
+                        "priceSales": 25000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328606040&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=328495186&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=328495186&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=328495186&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "2024 이기적 정보처리기사 실기 핵심 600제 + 프로그래밍 언어 - 24년 출제기준 반영 + 동영상 강의 무료 + 구매인증 PDF",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=331653715&partner=openAPI&start=api",
+            "author": "이성행 (지은이)",
+            "pubDate": "2024-01-05",
+            "description": "이제 이론은 그만 공부하고 싶고 실제 시험처럼 문제를 많이 풀어보고 싶다면 [이기적 정보처리기사 실기 핵심 600제+프로그래밍 언어]가 딱! 찾던 도서다. 과목별 400제로 공부했던 내용을 점검하고 실제 기출문제를 복원한 10회분의 200제로 마지막 점검하자.",
+            "isbn": "8931467915",
+            "isbn13": "9788931467918",
+            "itemId": 331653715,
+            "priceSales": 26100,
+            "priceStandard": 29000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1450,
+            "cover": "https://image.aladin.co.kr/product/33165/37/cover/8931467915_1.jpg",
+            "categoryId": 7012,
+            "categoryName": "국내도서>컴퓨터/모바일>활용능력>정보처리기사",
+            "publisher": "영진.com(영진닷컴)",
+            "salesPoint": 610,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "seriesInfo": {
+                "seriesId": 1122912,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1122912&partner=openAPI",
+                "seriesName": "2024 이기적 정보처리산업기사/기사/기능사 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 332115263,
+                        "isbn": "E882532528",
+                        "isbn13": "9788931474589",
+                        "priceSales": 23200,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332115263&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=331653715&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=331653715&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=331653715&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "자바 ORM 표준 JPA 프로그래밍 - 스프링 데이터 예제 프로젝트로 배우는 전자정부 표준 데이터베이스 프레임워크",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=62681446&partner=openAPI&start=api",
+            "author": "김영한 (지은이)",
+            "pubDate": "2015-07-28",
+            "description": "에이콘 오픈 소스 프로그래밍 시리즈. 이 책은 JPA 기초 이론과 핵심 원리, 그리고 실무에 필요한 성능 최적화 방법까지 JPA에 대한 모든 것을 다룬다.",
+            "isbn": "8960777331",
+            "isbn13": "9788960777330",
+            "itemId": 62681446,
+            "priceSales": 38700,
+            "priceStandard": 43000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 2150,
+            "cover": "https://image.aladin.co.kr/product/6268/14/cover/8960777331_1.jpg",
+            "categoryId": 2502,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>자바",
+            "publisher": "에이콘출판",
+            "salesPoint": 5963,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 9,
+            "seriesInfo": {
+                "seriesId": 15805,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=15805&partner=openAPI",
+                "seriesName": "에이콘 오픈소스 프로그래밍 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 241970388,
+                        "isbn": "E982537409",
+                        "isbn13": "9791161754277",
+                        "priceSales": 34400,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=241970388&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=62681446&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 21,
+                        "minPrice": 30790,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=62681446&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 1,
+                        "minPrice": 22700,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=62681446&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "난생처음 파이썬 프로그래밍",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274643478&partner=openAPI&start=api",
+            "author": "우재남, 최민아 (지은이)",
+            "pubDate": "2021-06-28",
+            "description": "파이썬의 핵심 문법을 다양한 삽화와 도식을 통해 시각적으로 설명하여 비전공자도 쉽고 재미있게 배울 수 있다. 또한 각 장마다 수록된 실생활 사례 위주의 [LAB]과 [실전 예제]를 실습하면서 프로그래밍 실력을 자연스럽게 향상시킬 수 있다.",
+            "isbn": "K092733287",
+            "isbn13": "9791156645528",
+            "itemId": 274643478,
+            "priceSales": 24000,
+            "priceStandard": 24000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1200,
+            "cover": "https://image.aladin.co.kr/product/27464/34/cover/k092733287_1.jpg",
+            "categoryId": 6734,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>파이썬",
+            "publisher": "한빛아카데미(교재)",
+            "salesPoint": 4497,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 274665109,
+                        "isbn": "E552538224",
+                        "isbn13": "9791156648147",
+                        "priceSales": 24000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274665109&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=274643478&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 7,
+                        "minPrice": 15000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=274643478&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 2,
+                        "minPrice": 14000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=274643478&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "만들면서 배우는 플러터 앱 프로그래밍 - 7가지 모바일 앱 UI 제작 & RiverPod 상태 관리",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329173336&partner=openAPI&start=api",
+            "author": "최주호, 김근호, 이지원 (지은이)",
+            "pubDate": "2023-12-25",
+            "description": "플러터 개발 환경 구축과 다트 핵심 문법 위주로 설명하여 문법에 대한 부담을 확 줄였다. 그 대신 실제 상용 앱의 UI를 클론코딩으로 직접 만들면서 자연스럽게 플러터를 배울 수 있게 과정별로 상세히 설명하였다.",
+            "isbn": "K342936833",
+            "isbn13": "9791193059135",
+            "itemId": 329173336,
+            "priceSales": 19800,
+            "priceStandard": 22000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1100,
+            "cover": "https://image.aladin.co.kr/product/32917/33/cover/k342936833_1.jpg",
+            "categoryId": 6627,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>웹 서비스/웹 프로그래밍",
+            "publisher": "앤써북",
+            "salesPoint": 400,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 9,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329173336&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329173336&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329173336&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "Must Have 코드팩토리의 플러터 프로그래밍 2판 - 다트 & 플러터 입문부터 실전 앱 개발10가지와 인증 / 광고 / 배포까지",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332270019&partner=openAPI&start=api",
+            "author": "최지호 (지은이)",
+            "pubDate": "2024-02-01",
+            "description": "플러터 시작을 위한 다트 언어를 기초부터 객체지향, 비동기 프로그래밍, 신규 3.0 문법까지 4개 장에 걸쳐 다룬다. 독자가 꼭 필요한 내용을 학습할 수 있도록 플러터 기본 위젯부터 현업에 유용한 기능을 담은 10가지 앱을 배울 수 있도록 구성했다.",
+            "isbn": "K272937158",
+            "isbn13": "9791191905618",
+            "itemId": 332270019,
+            "priceSales": 39600,
+            "priceStandard": 44000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 2200,
+            "cover": "https://image.aladin.co.kr/product/33227/0/cover/k272937158_1.jpg",
+            "categoryId": 55981,
+            "categoryName": "국내도서>컴퓨터/모바일>모바일 프로그래밍>모바일/임베디드",
+            "publisher": "골든래빗(주)",
+            "salesPoint": 390,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "seriesInfo": {
+                "seriesId": 975226,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=975226&partner=openAPI",
+                "seriesName": "Must Have "
+            },
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332270019&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332270019&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332270019&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "한 권으로 읽는 컴퓨터 구조와 프로그래밍 - 더 나은 소프트웨어 개발을 위한 하드웨어, 자료구조, 필수 알고리즘 등 프로그래머의 비밀 노트",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=268444562&partner=openAPI&start=api",
+            "author": "조너선 스타인하트 (지은이), 오현석 (옮긴이)",
+            "pubDate": "2021-04-08",
+            "description": "하드웨어의 토대가 되는 기초 전자회로, 게이트 등을 설명하고, 그 위에서 소프트웨어를 작성하는 방법을 웹과 C 프로그램으로 직접 만들어보며, 개발자라면 반드시 알아야 할 커튼 뒤에 감춰진 컴퓨터 구조와 프로그래밍에 대한 거의 모든 것을 다루는 컴퓨터공학 개론서다.",
+            "isbn": "K942730395",
+            "isbn13": "9791189909284",
+            "itemId": 268444562,
+            "priceSales": 31500,
+            "priceStandard": 35000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1750,
+            "cover": "https://image.aladin.co.kr/product/26844/45/cover/k942730395_1.jpg",
+            "categoryId": 2721,
+            "categoryName": "국내도서>컴퓨터/모바일>컴퓨터 공학>컴퓨터공학/전산학 개론",
+            "publisher": "책만",
+            "salesPoint": 4223,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 8,
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 273535853,
+                        "isbn": "E272538611",
+                        "isbn13": "9791189909314",
+                        "priceSales": 28000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273535853&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=268444562&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 35,
+                        "minPrice": 20000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=268444562&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 1,
+                        "minPrice": 19100,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=268444562&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "러스트 동시성 프로그래밍 - Atomic과 Lock으로 안전하고 효율적인 동시성 코드 작성하기",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332761260&partner=openAPI&start=api",
+            "author": "마라 보스 (지은이), 윤인도 (옮긴이)",
+            "pubDate": "2024-01-29",
+            "description": "러스트의 안전성과 빠른 속도라는 강점을 최대한 활용하는 방법을 소개한다. 특히 러스트의 메모리 모델을 중점으로 다루며, Arc나 Mutex와 같은 동시성 도구가 어떻게 동작하는지를 다양한 예제 코드와 함께 자세히 설명한다.",
+            "isbn": "K832938878",
+            "isbn13": "9791169212007",
+            "itemId": 332761260,
+            "priceSales": 23400,
+            "priceStandard": 26000,
+            "mallType": "BOOK",
+            "stockStatus": "예약판매",
+            "mileage": 1300,
+            "cover": "https://image.aladin.co.kr/product/33276/12/cover/k832938878_1.jpg",
+            "categoryId": 6357,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>프로그래밍 언어 기타",
+            "publisher": "한빛미디어",
+            "salesPoint": 380,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332761260&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332761260&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332761260&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "윤성우의 열혈 TCP/IP 소켓 프로그래밍 - 개정판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=5928062&partner=openAPI&start=api",
+            "author": "윤성우 (지은이)",
+            "pubDate": "2009-12-01",
+            "description": "눅스와 윈도우 기반에서의 소켓 프로그래밍을 함께 설명하며, 초보자에게 적절한 설명과 예제를 통해서 소켓 프로그래밍에 대한 재미를 안겨주고자 한 책이다. 2003년도에 출간된 <열혈강의 TCP/IP 소켓 프로그래밍>의 개정판. \n\n",
+            "isbn": "899609403X",
+            "isbn13": "9788996094036",
+            "itemId": 5928062,
+            "priceSales": 23400,
+            "priceStandard": 26000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1300,
+            "cover": "https://image.aladin.co.kr/product/592/80/cover/899609403x_1.jpg",
+            "categoryId": 6369,
+            "categoryName": "국내도서>컴퓨터/모바일>OS/Networking>네트워크 구축",
+            "publisher": "오렌지미디어",
+            "salesPoint": 4127,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=5928062&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 32,
+                        "minPrice": 9000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=5928062&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 15,
+                        "minPrice": 13100,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=5928062&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "명품 HTML5+CSS3+Javascript 웹 프로그래밍 - 개정판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=288358868&partner=openAPI&start=api",
+            "author": "황기태 (지은이)",
+            "pubDate": "2022-02-10",
+            "description": "저자는 HTML5 기술을 제대로 전달하기 위해 HTML5 태그, CSS3, 자바스크립트를 모두 아우르도록 내용을 구성하고, 특히 자바스크립트 API로 HTML5 웹 응용프로그램을 작성하는 지식을 예제와 실습 중심으로 저술하였다.",
+            "isbn": "8970505458",
+            "isbn13": "9788970505459",
+            "itemId": 288358868,
+            "priceSales": 30000,
+            "priceStandard": 30000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 900,
+            "cover": "https://image.aladin.co.kr/product/28835/88/cover/8970505458_1.jpg",
+            "categoryId": 6355,
+            "categoryName": "국내도서>컴퓨터/모바일>웹디자인/홈페이지>HTML/JavaScript",
+            "publisher": "생능",
+            "salesPoint": 4126,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 1,
+                        "minPrice": 19000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=288358868&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 12,
+                        "minPrice": 10000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=288358868&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 15,
+                        "minPrice": 18100,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=288358868&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "챗GPT를 활용한 파이썬 프로그래밍 - 파이썬과 챗GPT를 활용하고 싶은 분들을 위한 활용서",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329024770&partner=openAPI&start=api",
+            "author": "김종덕 (지은이)",
+            "pubDate": "2023-11-15",
+            "description": "기존 개발자들과 처음 IT에 입문하는 분들이 좀 더 쉽게 적응할 수 있도록 파이썬의 문법도 공부하고 라이브러리 활용도 같이 공부할 수 있도록 이 책의 내용들을 구성했다. 개발자와 엔지니어분들이 챗GPT도 적극 활용할 수 있도록 구성되어 있다.",
+            "isbn": "8997945076",
+            "isbn13": "9788997945078",
+            "itemId": 329024770,
+            "priceSales": 25650,
+            "priceStandard": 27000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1350,
+            "cover": "https://image.aladin.co.kr/product/32902/47/cover/8997945076_1.jpg",
+            "categoryId": 6734,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>파이썬",
+            "publisher": "아이티포럼(ITForum!)",
+            "salesPoint": 365,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329024770&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329024770&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329024770&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "레트로의 유니티 게임 프로그래밍 에센스 - C#으로 배우는 입문부터 4가지 게임 제작까지(Unity 2021/2022 호환, 부록: 어드레서블 시스템, 2022 버전 호환 가이드 별도 제공), 개정판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287769309&partner=openAPI&start=api",
+            "author": "이제민 (지은이)",
+            "pubDate": "2022-02-01",
+            "description": "기본을 빠르게 익히고 나서 게임을 직접 만들며 필요한 기능을 알아가는 입문 + 활용서로서 여러분의 시간을 아껴준다. C#을 몰라도, 유니티 엔진을 몰라도 게임을 만들 수 있다. C# 입문 + 유니티 에디터 + 실전 게임 개발을 한 권으로 전달한다.",
+            "isbn": "K442836380",
+            "isbn13": "9791162245149",
+            "itemId": 287769309,
+            "priceSales": 54000,
+            "priceStandard": 60000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 3000,
+            "cover": "https://image.aladin.co.kr/product/28776/93/cover/k442836380_1.jpg",
+            "categoryId": 2756,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>게임 프로그래밍",
+            "publisher": "한빛미디어",
+            "salesPoint": 3991,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "seriesInfo": {
+                "seriesId": 645970,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=645970&partner=openAPI",
+                "seriesName": "소문난 명강의 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 288833743,
+                        "isbn": "E692539320",
+                        "isbn13": "9791162246269",
+                        "priceSales": 48000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=288833743&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=287769309&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 28,
+                        "minPrice": 42500,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=287769309&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=287769309&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "임베디드 리눅스 프로그래밍 완전정복 3/e",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329205368&partner=openAPI&start=api",
+            "author": "프랭크 바스케즈, 크리스 시먼즈 (지은이), 김기주, 김병극, 송지연 (옮긴이)",
+            "pubDate": "2023-11-30",
+            "description": "임베디드 리눅스를 이용해서 장치를 만들 때 고려할 하드웨어 관련 사항, 툴체인과 부트로더 선택, 커널 구성과 루트 파일 시스템 생성, 빌드 시스템 선택, 플래시 메모리, 장치 드라이버, 시스템 부트 과정 등을 다룬다.",
+            "isbn": "K082936938",
+            "isbn13": "9791161758008",
+            "itemId": 329205368,
+            "priceSales": 45000,
+            "priceStandard": 50000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 2500,
+            "cover": "https://image.aladin.co.kr/product/32920/53/cover/k082936938_1.jpg",
+            "categoryId": 2753,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>리눅스/유닉스 프로그래밍",
+            "publisher": "에이콘출판",
+            "salesPoint": 335,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "seriesInfo": {
+                "seriesId": 15806,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=15806&partner=openAPI",
+                "seriesName": "에이콘 임베디드 시스템 프로그래밍 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329205368&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329205368&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329205368&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "모던 리액트 Deep Dive - 리액트의 핵심 개념과 동작 원리부터 Next.js까지, 리액트의 모든 것",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=327499133&partner=openAPI&start=api",
+            "author": "김용찬 (지은이)",
+            "pubDate": "2023-11-07",
+            "description": "0.x 버전의 리액트부터 최신 버전인 18 버전에 이르기까지, 리액트를 둘러싼 다양한 내용을 다루고 있다. 리액트에 관심 있는 개발자라면 이 책을 통해 리액트 앱 개발의 시작부터 끝까지 경험해 보면서 웹 서비스 개발의 즐거움을 만끽하시길 바란다.",
+            "isbn": "K542936989",
+            "isbn13": "9791158394646",
+            "itemId": 327499133,
+            "priceSales": 43200,
+            "priceStandard": 48000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 2400,
+            "cover": "https://image.aladin.co.kr/product/32749/91/cover/k542936989_1.jpg",
+            "categoryId": 6627,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>웹 서비스/웹 프로그래밍",
+            "publisher": "위키북스",
+            "salesPoint": 6025,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "seriesInfo": {
+                "seriesId": 13035,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=13035&partner=openAPI",
+                "seriesName": "위키북스 프로그래밍 & 프랙티스 시리즈 35"
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 331658047,
+                        "isbn": "E692532127",
+                        "isbn13": "9791158394844",
+                        "priceSales": 38400,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=331658047&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=327499133&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=327499133&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=327499133&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "SQL Antipatterns 데이터베이스 프로그래밍의 실수 줄이기 - Avoiding the Pitfalls of Database Programming",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328068733&partner=openAPI&start=api",
+            "author": "빌 카윈 (지은이), 하세정, 이애라 (옮긴이)",
+            "pubDate": "2023-11-07",
+            "description": "프로그래머들이 데이터에 사용하는 인기 있는 언어인 SQL에 관한 책이며, 특히 SQL을 사용하면서 자주하는 실수를 줄이는 방법을 다루고 있다. 일반적인 실수를 식별하고 피하는 방법을 배우고 실제로 작동하는 데이터 모델로 리팩토링한다.",
+            "isbn": "K122936706",
+            "isbn13": "9791197992971",
+            "itemId": 328068733,
+            "priceSales": 31000,
+            "priceStandard": 31000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 0,
+            "cover": "https://image.aladin.co.kr/product/32806/87/cover/k122936706_2.jpg",
+            "categoryId": 6720,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>프로그래밍 기초/개발 방법론",
+            "publisher": "지니북스",
+            "salesPoint": 310,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "seriesInfo": {
+                "seriesId": 1149896,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1149896&partner=openAPI",
+                "seriesName": "SQL Antipatterns 1"
+            },
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=328068733&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=328068733&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=328068733&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "GPT-4, ChatGPT, 라마인덱스, 랭체인을 활용한 인공지능 프로그래밍 - 한권으로 끝내는 OpenAI API 기반 LLM 애플리케이션 구축",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324901870&partner=openAPI&start=api",
+            "author": "후루카와 히데카즈 (지은이), 트랜스메이트 (옮긴이)",
+            "pubDate": "2023-09-21",
+            "description": "OpenAI의 GPT 모델을 활용하여 채팅 AI를 개발하는 방법을 안내한다. 파이썬의 기초 문법부터 라마인덱스를 활용한 파인튜닝 방법과 복잡한 작업을 수행하는 애플리케이션을 만들기 위한 랭체인 활용법까지 맞춤형 채팅 AI를 독자적인 시스템에 접목하는 방법을 단계별로 설명한다.",
+            "isbn": "K432935504",
+            "isbn13": "9791158394622",
+            "itemId": 324901870,
+            "priceSales": 25200,
+            "priceStandard": 28000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1400,
+            "cover": "https://image.aladin.co.kr/product/32490/18/cover/k432935504_1.jpg",
+            "categoryId": 212364,
+            "categoryName": "국내도서>컴퓨터/모바일>인공지능",
+            "publisher": "위키북스",
+            "salesPoint": 3375,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "seriesInfo": {
+                "seriesId": 1141055,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1141055&partner=openAPI",
+                "seriesName": "위키북스 생성형 AI 프로그래밍 3"
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 332750243,
+                        "isbn": "E082532835",
+                        "isbn13": "9791158394936",
+                        "priceSales": 22400,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332750243&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=324901870&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=324901870&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=324901870&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "혼자 공부하는 첫 프로그래밍 with 파이썬 - 1:1 과외하듯 배우는 왕초보 코딩 입문서",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243155140&partner=openAPI&start=api",
+            "author": "문현일 (지은이)",
+            "pubDate": "2020-06-30",
+            "description": "1:1 과외하듯 배우는 왕초보 코딩 입문서. 비전공자를 위해 기존 입문서보다 더 기초부터 알려준다. 프로그래밍을 배우기 전 알아야 하는 문법 원리를 비전공자의 눈높이에 맞춰 그림으로 보는 '눈코딩'으로 보여주고, 직접 따라 해보는 짧은 '손코딩'으로 연습한다.",
+            "isbn": "K972630699",
+            "isbn13": "9791162243039",
+            "itemId": 243155140,
+            "priceSales": 15300,
+            "priceStandard": 17000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 850,
+            "cover": "https://image.aladin.co.kr/product/24315/51/cover/k972630699_1.jpg",
+            "categoryId": 6734,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>파이썬",
+            "publisher": "한빛미디어",
+            "salesPoint": 3375,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 9,
+            "seriesInfo": {
+                "seriesId": 674661,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=674661&partner=openAPI",
+                "seriesName": "혼자 공부하는 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 252597681,
+                        "isbn": "E492537635",
+                        "isbn13": "9791162247600",
+                        "priceSales": 13600,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=252597681&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 1,
+                        "minPrice": 9000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=243155140&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 27,
+                        "minPrice": 8700,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=243155140&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 5,
+                        "minPrice": 9300,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=243155140&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "Do it! 자바 프로그래밍 입문 - 개발 실무 10년, 강의 10년! 명강사의 기초 튼튼 코딩 밥상!",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=157852460&partner=openAPI&start=api",
+            "author": "박은종 (지은이)",
+            "pubDate": "2018-08-06",
+            "description": "개발 실무 10년, 강의 10년, 자바 장인이 왕초보 학생들과 부대끼며 깨달은 눈높이로 자바 학습 노하우를  공개한다. 중학교 1학년도 쉽게 이해할 수 있을 만큼 쉬운 말로 풀어서 설명했으며, 저자의 경험을 살려 초보자들이 반드시 알아야 하고, 실제 현장에서 많이 사용하는 핵심 문법들을 엄선하여 실었다.",
+            "isbn": "K182533237",
+            "isbn13": "9791163030195",
+            "itemId": 157852460,
+            "priceSales": 22500,
+            "priceStandard": 25000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1250,
+            "cover": "https://image.aladin.co.kr/product/15785/24/cover/k182533237_1.jpg",
+            "categoryId": 2502,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>자바",
+            "publisher": "이지스퍼블리싱",
+            "salesPoint": 3250,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 9,
+            "seriesInfo": {
+                "seriesId": 28311,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=28311&partner=openAPI",
+                "seriesName": "Do it! 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 160135934,
+                        "isbn": "EK18253323",
+                        "isbn13": "9791163030201",
+                        "priceSales": 16500,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=160135934&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=157852460&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 99,
+                        "minPrice": 4000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=157852460&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 15,
+                        "minPrice": 12200,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=157852460&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "Do it! 조코딩의 프로그래밍 입문 - ‘복붙’으로 다 끝낸다! HTML부터 인공지능까지!",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297631855&partner=openAPI&start=api",
+            "author": "조동근(조코딩), 김형태 (지은이)",
+            "pubDate": "2022-07-18",
+            "description": "드디어 누구나 쉽게 배울 수 있는 조코딩식 코딩 공부법을 담은 책이 나왔다. 조코딩의 초고속 코딩 학습법은 지루한 문법 중심이 아니다. 조코딩은 뚜렷한 목표를 세우고 작은 실습부터 [동물상 테스트]까지 성취감을 주며 진도를 나가므로 더욱 특별하다.",
+            "isbn": "K792838304",
+            "isbn13": "9791163033875",
+            "itemId": 297631855,
+            "priceSales": 16200,
+            "priceStandard": 18000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 900,
+            "cover": "https://image.aladin.co.kr/product/29763/18/cover/k792838304_1.jpg",
+            "categoryId": 212364,
+            "categoryName": "국내도서>컴퓨터/모바일>인공지능",
+            "publisher": "이지스퍼블리싱",
+            "salesPoint": 2998,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "seriesInfo": {
+                "seriesId": 28311,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=28311&partner=openAPI",
+                "seriesName": "Do it! 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 298628568,
+                        "isbn": "E392530007",
+                        "isbn13": "9791163033899",
+                        "priceSales": 12000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298628568&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=297631855&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 22,
+                        "minPrice": 7000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=297631855&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=297631855&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "챗GPT로 만드는 주식 & 암호화폐 자동매매 시스템 - 코딩을 몰라도 누구나 할 수 있는 파이썬 금융 프로그래밍",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=327935174&partner=openAPI&start=api",
+            "author": "설근민 (지은이)",
+            "pubDate": "2023-11-17",
+            "description": "코딩을 모르는 사람도 프로그램을 개발할 수 있는 길이 열렸다. 챗GPT에 질문하고, 챗GPT가 만든 코드를 복사해서 붙여넣기만 해도 프로그램이 뚝딱 만들어진다. 중요한 것은 프로그래밍 언어를 아는 것이 아니라, 문제 해결 방식을 떠올리는 것이다.",
+            "isbn": "K402936596",
+            "isbn13": "9791192987033",
+            "itemId": 327935174,
+            "priceSales": 18000,
+            "priceStandard": 20000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1000,
+            "cover": "https://image.aladin.co.kr/product/32793/51/cover/k402936596_1.jpg",
+            "categoryId": 212364,
+            "categoryName": "국내도서>컴퓨터/모바일>인공지능",
+            "publisher": "제이펍",
+            "salesPoint": 4935,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 330484396,
+                        "isbn": "E262532310",
+                        "isbn13": "9791192987729",
+                        "priceSales": 14000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330484396&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=327935174&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=327935174&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=327935174&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "가상 면접 사례로 배우는 대규모 시스템 설계 기초 2",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330404121&partner=openAPI&start=api",
+            "author": "알렉스 쉬, 산 람 (지은이), 이병준 (옮긴이)",
+            "pubDate": "2024-01-02",
+            "description": "시스템 설계를 시작하는 사람들을 위한 가이드이자 설계 안내서이다. 1권에서 다루지 않았던 금융 시스템을 비롯해 보다 다양한 시스템을 사례로 들며 설계를 위해 필요한 지식을 설명한다. 또한 각 장마다 단계적 접근을 통해 실전에서 쓸 수 있는 전략을 알려 준다.",
+            "isbn": "8966264255",
+            "isbn13": "9788966264254",
+            "itemId": 330404121,
+            "priceSales": 32400,
+            "priceStandard": 36000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1800,
+            "cover": "https://image.aladin.co.kr/product/33040/41/cover/8966264255_1.jpg",
+            "categoryId": 2721,
+            "categoryName": "국내도서>컴퓨터/모바일>컴퓨터 공학>컴퓨터공학/전산학 개론",
+            "publisher": "인사이트",
+            "salesPoint": 4925,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 8,
+            "seriesInfo": {
+                "seriesId": 90333,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=90333&partner=openAPI",
+                "seriesName": "프로그래밍 인사이트 Programming Insight "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 332736662,
+                        "isbn": "E902532834",
+                        "isbn13": "9788966264339",
+                        "priceSales": 28800,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332736662&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=330404121&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=330404121&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=330404121&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "Do it! 일상이 자동화되는 파이썬 생활 프로그래밍 with 챗GPT - 비전공자도 오늘부터 바로 프로그램 만든다!",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332949018&partner=openAPI&start=api",
+            "author": "김창현 (지은이)",
+            "pubDate": "2024-01-30",
+            "description": "만 명이 넘는 독자들을 생활 프로그래밍으로 이끈《Do it! 파이썬 생활 프로그래밍》이 파이썬 최신 문법, 챗GPT 활용법을 반영하여 더 강력하게 돌아왔다. 이 책에서는 가장 쉬운 활용법인 계산기부터 미드 ‘프렌즈’에서 대사 추출, 아파트 실거래가 통계 분석, 포털 사이트 기사 크롤링까지 총 11개 프로그램을 직접 만들어볼 수 있다.",
+            "isbn": "K442938388",
+            "isbn13": "9791163035503",
+            "itemId": 332949018,
+            "priceSales": 21600,
+            "priceStandard": 24000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1200,
+            "cover": "https://image.aladin.co.kr/product/33294/90/cover/k442938388_1.jpg",
+            "categoryId": 6734,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>파이썬",
+            "publisher": "이지스퍼블리싱",
+            "salesPoint": 250,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "seriesInfo": {
+                "seriesId": 28311,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=28311&partner=openAPI",
+                "seriesName": "Do it! 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332949018&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332949018&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332949018&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "Java 프로그래밍 (워크북 포함)",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332827880&partner=openAPI&start=api",
+            "author": "김희천, 정재헌 (지은이)",
+            "pubDate": "2024-01-25",
+            "description": "",
+            "isbn": "8920048630",
+            "isbn13": "9788920048630",
+            "itemId": 332827880,
+            "priceSales": 24500,
+            "priceStandard": 24500,
+            "mallType": "BOOK",
+            "stockStatus": "예약판매",
+            "mileage": 730,
+            "cover": "https://image.aladin.co.kr/product/33282/78/cover/8920048630_1.jpg",
+            "categoryId": 164303,
+            "categoryName": "국내도서>대학교재/전문서적>한국방송통신대학교>자연과학대학>컴퓨터과학과",
+            "publisher": "한국방송통신대학교출판문화원",
+            "salesPoint": 230,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332827880&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332827880&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332827880&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "Hello Coding 프로그래밍 - 개념부터 처음 배우는",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125405794&partner=openAPI&start=api",
+            "author": "Pope Kim (지은이)",
+            "pubDate": "2018-01-02",
+            "description": "프로그래밍 기초 개념 입문서. 프로그래밍의 명령어의 사전적 의미부터 차근차근 알려주며, 실습 코드와 각 장 마지막에 있는 게임 프로그래밍을 통해 기초 개념을 완벽히 자신의 것으로 학습할 수 있다.",
+            "isbn": "K932532464",
+            "isbn13": "9791162240342",
+            "itemId": 125405794,
+            "priceSales": 17820,
+            "priceStandard": 19800,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 990,
+            "cover": "https://image.aladin.co.kr/product/12540/57/cover/k932532464_1.jpg",
+            "categoryId": 6385,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>C",
+            "publisher": "한빛미디어",
+            "salesPoint": 2251,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "seriesInfo": {
+                "seriesId": 123320,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=123320&partner=openAPI",
+                "seriesName": "Hello Coding "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 128679736,
+                        "isbn": "EK93253246",
+                        "isbn13": "9791162249840",
+                        "priceSales": 15840,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=128679736&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=125405794&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 17,
+                        "minPrice": 9000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=125405794&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 15,
+                        "minPrice": 10400,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=125405794&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "CODE 코드 (블랙 에디션) - 하드웨어와 소프트웨어에 숨어 있는 언어, 2판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330301790&partner=openAPI&start=api",
+            "author": "찰스 펫졸드 (지은이), 김현규 (옮긴이)",
+            "pubDate": "2023-12-22",
+            "description": "20년이 넘는 세월 동안 컴퓨터 공학 분야의 필독서로서 많은 독자를 열광하게 만든 《CODE》가 새로운 컴퓨팅 시대에 맞춰 개정되었다. 컴퓨터 내부의 비밀스러운 이야기들을 담은 이 책은 잘 짜인 일러스트와 이해하기 쉬운 설명을 통해서 컴퓨터에 대한 수수께끼를 풀어낸다.",
+            "isbn": "896626428X",
+            "isbn13": "9788966264285",
+            "itemId": 330301790,
+            "priceSales": 31500,
+            "priceStandard": 35000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1750,
+            "cover": "https://image.aladin.co.kr/product/33030/17/cover/896626428x_1.jpg",
+            "categoryId": 2721,
+            "categoryName": "국내도서>컴퓨터/모바일>컴퓨터 공학>컴퓨터공학/전산학 개론",
+            "publisher": "인사이트",
+            "salesPoint": 3640,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "seriesInfo": {
+                "seriesId": 15982,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=15982&partner=openAPI",
+                "seriesName": "프로그램 프로그래밍 프로그래머 14"
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 332047777,
+                        "isbn": "E112532327",
+                        "isbn13": "9788966264322",
+                        "priceSales": 28000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332047777&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=330301790&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=330301790&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=330301790&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린 - 친절한 문법 설명 + 18개 실습 예제로 배우는 모바일 앱 개발, 개정2판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306385379&partner=openAPI&start=api",
+            "author": "강성윤 (지은이)",
+            "pubDate": "2022-12-16",
+            "description": "이번 판에서는 안드로이드 13, 티라미수 기준으로 달라진 내용을 보충했으며 실습 소스를 업데이트하며 책의 완성도를 더욱 높였다. 이 책은 구글에서 공식 언어로 채택한 코틀린으로 안드로이드 앱을 개발하는 전 과정을 다룬다.",
+            "isbn": "K632830022",
+            "isbn13": "9791163034254",
+            "itemId": 306385379,
+            "priceSales": 36000,
+            "priceStandard": 40000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 2000,
+            "cover": "https://image.aladin.co.kr/product/30638/53/cover/k632830022_1.jpg",
+            "categoryId": 55979,
+            "categoryName": "국내도서>컴퓨터/모바일>모바일 프로그래밍>안드로이드",
+            "publisher": "이지스퍼블리싱",
+            "salesPoint": 2198,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 8,
+            "seriesInfo": {
+                "seriesId": 28311,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=28311&partner=openAPI",
+                "seriesName": "Do it! 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 306838390,
+                        "isbn": "E202530152",
+                        "isbn13": "9791163034308",
+                        "priceSales": 28000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306838390&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=306385379&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 19,
+                        "minPrice": 12000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=306385379&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 12,
+                        "minPrice": 21000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=306385379&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "윤성우의 열혈 Java 프로그래밍",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=113132231&partner=openAPI&start=api",
+            "author": "윤성우 (지은이)",
+            "pubDate": "2017-07-05",
+            "description": "<난 정말 Java를 공부한 적이 없다구요>의 개정판으로, 최신 내용을 바탕으로 새롭게 집필된 자바책이다. 자바 8이 발표되면서 초보자들에게 어려울 수 있는 문법적 요소가 상당수 포함 되었지만, 저자 특유의 쉽고 명확한 설명을 통해서 어렵지 않게 해당 내용들을 설명한다.",
+            "isbn": "8996094072",
+            "isbn13": "9788996094074",
+            "itemId": 113132231,
+            "priceSales": 27000,
+            "priceStandard": 30000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1500,
+            "cover": "https://image.aladin.co.kr/product/11313/22/cover/8996094072_1.jpg",
+            "categoryId": 2502,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>자바",
+            "publisher": "오렌지미디어",
+            "salesPoint": 2168,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=113132231&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 26,
+                        "minPrice": 9500,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=113132231&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 14,
+                        "minPrice": 15100,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=113132231&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "예제로 배우는 SAS 프로그래밍 입문 - 제2판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=327820730&partner=openAPI&start=api",
+            "author": "강현철, 최병정, 김기영, 최병진 (지은이)",
+            "pubDate": "2023-10-31",
+            "description": "SAS 소프트웨어를 이용하여 데이터 분석을 수행하고자 하는 다양한 분야의 독자들을 위한 프로그래밍 입문서이다. 실제적이고 간단한 예제들을 이용하여 SAS 언어의 기본적인 사항에 대해서 쉽고 간단하게 설명하고 있다. 또한 다양한 형태의 문제를 해결하기 위한 몇 가지 고급기법들도 다루고 있다.",
+            "isbn": "K702936387",
+            "isbn13": "9791158085322",
+            "itemId": 327820730,
+            "priceSales": 28000,
+            "priceStandard": 28000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 840,
+            "cover": "https://image.aladin.co.kr/product/32782/7/cover/k702936387_1.jpg",
+            "categoryId": 8565,
+            "categoryName": "국내도서>대학교재/전문서적>경상계열>통계",
+            "publisher": "자유아카데미",
+            "salesPoint": 195,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 327925763,
+                        "isbn": "E192532292",
+                        "isbn13": "9791158085551",
+                        "priceSales": 25200,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=327925763&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=327820730&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=327820730&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=327820730&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "ROS 2로 시작하는 로봇 프로그래밍",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=276616576&partner=openAPI&start=api",
+            "author": "표윤석, 임태훈 (지은이)",
+            "pubDate": "2021-08-05",
+            "description": "ROS 공식 플랫폼인 TurtleBot3의 개발자이자 10여 년간 ROS 기반 프로젝트를 진행한 로보틱스 엔지니어인 필자들이 실무에서 얻은 경험과 커뮤니티 활동을 바탕으로 작성한 ROS 로봇 프로그래밍 지침서이다.",
+            "isbn": "K072733230",
+            "isbn13": "9791186710722",
+            "itemId": 276616576,
+            "priceSales": 28800,
+            "priceStandard": 32000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1600,
+            "cover": "https://image.aladin.co.kr/product/27661/65/cover/k072733230_1.jpg",
+            "categoryId": 2724,
+            "categoryName": "국내도서>컴퓨터/모바일>컴퓨터 공학>소프트웨어 공학",
+            "publisher": "루비페이퍼",
+            "salesPoint": 2042,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=276616576&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 18,
+                        "minPrice": 22990,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=276616576&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=276616576&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "쉽게 배우는 JSP 웹 프로그래밍 - 2판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330261779&partner=openAPI&start=api",
+            "author": "송미영 (지은이)",
+            "pubDate": "2023-12-08",
+            "description": "JSP의 이론적 개념 → 기본 실습 → 응용 실습 순의 단계별 학습이 가능하다. 응용 실습이 합쳐져 최종적으로 북마켓 하나를 완성하도록 구성하여 본문에서 배운 내용이 어디에 어떻게 적용되는지 알 수 있다.",
+            "isbn": "K592937179",
+            "isbn13": "9791156640066",
+            "itemId": 330261779,
+            "priceSales": 30000,
+            "priceStandard": 30000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1500,
+            "cover": "https://image.aladin.co.kr/product/33026/17/cover/k592937179_1.jpg",
+            "categoryId": 7397,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>JSP",
+            "publisher": "한빛아카데미(교재)",
+            "salesPoint": 180,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "seriesInfo": {
+                "seriesId": 13045,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=13045&partner=openAPI",
+                "seriesName": "IT Cookbook 한빛 교재 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 330654704,
+                        "isbn": "E172532419",
+                        "isbn13": "9791156640912",
+                        "priceSales": 30000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330654704&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=330261779&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=330261779&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=330261779&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "NestJS로 배우는 백엔드 프로그래밍 - 타입스크립트 환경의 차세대 서버 프레임워크를 만나다",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306191959&partner=openAPI&start=api",
+            "author": "한용재 (지은이)",
+            "pubDate": "2022-12-20",
+            "description": "가장 진보한 프레임워크로 우아하게 백엔드 입문하기. 저자가 모두싸인에 몸담으며 익힌 노하우와 인사이트를 바탕으로 NestJS를 활용해 회원 가입, 이메일 인증, 로그인, 회원 정보 조회 기능을 갖춘 REST API 유저 서비스를 만들어본다.",
+            "isbn": "K322830828",
+            "isbn13": "9791192469560",
+            "itemId": 306191959,
+            "priceSales": 24300,
+            "priceStandard": 27000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1350,
+            "cover": "https://image.aladin.co.kr/product/30619/19/cover/k322830828_1.jpg",
+            "categoryId": 6720,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>프로그래밍 기초/개발 방법론",
+            "publisher": "제이펍",
+            "salesPoint": 1790,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 312924673,
+                        "isbn": "E372531586",
+                        "isbn13": "9791192469898",
+                        "priceSales": 18900,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312924673&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=306191959&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 17,
+                        "minPrice": 19000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=306191959&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=306191959&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "생활코딩! React 리액트 프로그래밍 - 처음 프로그래밍을 시작하는 입문자의 눈높이에 맞춘, 개정판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310634266&partner=openAPI&start=api",
+            "author": "이고잉 (지은이)",
+            "pubDate": "2023-02-22",
+            "description": "생활코딩에서 제공하는 수업 가운데 리액트와 관련된 수업을 정리했다. 이 수업은 프로그래밍을 처음 시작하는 분들의 눈높이에 맞게 만들어진 강의로서 동영상이나 텍스트만으로도 학습할 수 있게 만들어져 있다.",
+            "isbn": "K032831523",
+            "isbn13": "9791158394202",
+            "itemId": 310634266,
+            "priceSales": 22500,
+            "priceStandard": 25000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1250,
+            "cover": "https://image.aladin.co.kr/product/31063/42/cover/k032831523_1.jpg",
+            "categoryId": 6627,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>웹 서비스/웹 프로그래밍",
+            "publisher": "위키북스",
+            "salesPoint": 1787,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "seriesInfo": {
+                "seriesId": 118058,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=118058&partner=openAPI",
+                "seriesName": "위키북스 러닝스쿨 시리즈 11"
+            },
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=310634266&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 12,
+                        "minPrice": 14000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=310634266&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 7,
+                        "minPrice": 15200,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=310634266&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "모던 리액트 프로그래밍 - React 18, Next.js 14, JavaScript, TypeScript, React Router 6, React Redux 8",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332882479&partner=openAPI&start=api",
+            "author": "전병선 (지은이)",
+            "pubDate": "2024-01-22",
+            "description": "리액트 들어가기에서는 단일 페이지 애플리케이션과 리액트에 대한 개요를 설명한다. 그리고 리액트 함수형 컴포넌트의 특징과 함께 자바스크립트 함수 프로그래밍에 대해서도 설명한다.JSX 컴포넌트에서는 JSX 구문을 사용하는 리액트 컴포넌트에 대해 살펴본다.",
+            "isbn": "K112938087",
+            "isbn13": "9791193469040",
+            "itemId": 332882479,
+            "priceSales": 35100,
+            "priceStandard": 39000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1950,
+            "cover": "https://image.aladin.co.kr/product/33288/24/cover/k112938087_1.jpg",
+            "categoryId": 6627,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>웹 서비스/웹 프로그래밍",
+            "publisher": "리얼데브러닝",
+            "salesPoint": 160,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332882479&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332882479&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=332882479&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "Do it! C# 프로그래밍 입문 - 딱 필요한 문법만 빠르게 배우고 프로젝트 실습까지!",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302750550&partner=openAPI&start=api",
+            "author": "박필준 (지은이)",
+            "pubDate": "2022-10-13",
+            "description": "기본이 충실하면서도 프로젝트 실습까지 챙긴 C# 입문서다. C#에 빠르게 입문하여 활용할 수 있게 구성했다. 방대하고 어려운 문법에 매몰되지 않도록 자주 사용하는 핵심 기능에 집중했으며, 각 분야에서 C#을 어떻게 활용하는지 4가지 프로젝트로 실습해 본다.",
+            "isbn": "K362839723",
+            "isbn13": "9791163034087",
+            "itemId": 302750550,
+            "priceSales": 18000,
+            "priceStandard": 20000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1000,
+            "cover": "https://image.aladin.co.kr/product/30275/5/cover/k362839723_1.jpg",
+            "categoryId": 6360,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>.NET>C#",
+            "publisher": "이지스퍼블리싱",
+            "salesPoint": 1734,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "seriesInfo": {
+                "seriesId": 28311,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=28311&partner=openAPI",
+                "seriesName": "Do it! 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 303412911,
+                        "isbn": "E702530231",
+                        "isbn13": "9791163034100",
+                        "priceSales": 13000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303412911&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=302750550&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 11,
+                        "minPrice": 13000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=302750550&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=302750550&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "프로그래밍 러스트 - 빠르고 안전한 시스템 개발, 개정판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308448819&partner=openAPI&start=api",
+            "author": "짐 블랜디, 제이슨 오렌도프, 리어노라 틴달 (지은이), 조성만 (옮긴이)",
+            "pubDate": "2023-01-16",
+            "description": "<러스트 프로그래밍 공식 가이드>보다 더 친절하게, 한층 더 고급 기능까지 다룬다. 이 책은 메모리 안전성과 신뢰할 만한 동시성에 예측 가능한 성능을 더한 러스트의 기능이 어떤 식으로 메모리 소모량과 프로세서 사용량의 제어권을 프로그래머에게 제공하는지 보여 준다.",
+            "isbn": "K342831471",
+            "isbn13": "9791192469751",
+            "itemId": 308448819,
+            "priceSales": 36000,
+            "priceStandard": 40000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 2000,
+            "cover": "https://image.aladin.co.kr/product/30844/88/cover/k342831471_1.jpg",
+            "categoryId": 6720,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>프로그래밍 기초/개발 방법론",
+            "publisher": "제이펍",
+            "salesPoint": 1706,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=308448819&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 14,
+                        "minPrice": 29500,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=308448819&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=308448819&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "초보 웹 개발자를 위한 스프링5 프로그래밍 입문",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=157472828&partner=openAPI&start=api",
+            "author": "최범균 (지은이)",
+            "pubDate": "2018-07-18",
+            "description": "",
+            "isbn": "8980782977",
+            "isbn13": "9788980782970",
+            "itemId": 157472828,
+            "priceSales": 23850,
+            "priceStandard": 26500,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1320,
+            "cover": "https://image.aladin.co.kr/product/15747/28/cover/8980782977_1.jpg",
+            "categoryId": 6627,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>웹 서비스/웹 프로그래밍",
+            "publisher": "가메출판사",
+            "salesPoint": 1686,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=157472828&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 43,
+                        "minPrice": 10900,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=157472828&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 15,
+                        "minPrice": 14000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=157472828&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "공학도를 위한 파이썬 프로그래밍 - 과학계산 및 데이터작업",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329015639&partner=openAPI&start=api",
+            "author": "David E. Clough, Steven C. Chapra (지은이), 김주형, 이동욱, 이병옥, 조수현 (옮긴이), 유태훈 (감수)",
+            "pubDate": "2023-11-21",
+            "description": "무료로 사용할 수 있는 오픈 소스 언어인 이 파이썬에 대한 핵심 내용을 소개하고 있다. 주로 공학을 전공하는 대학 1학년 학부생에 맞추어 만들어진 이 책은 공학 계산, 과학 계산, 파이썬 기초, 구조적 프로그래밍을 다루고 있다.",
+            "isbn": "K642936626",
+            "isbn13": "9791185294421",
+            "itemId": 329015639,
+            "priceSales": 33000,
+            "priceStandard": 33000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 990,
+            "cover": "https://image.aladin.co.kr/product/32901/56/cover/k642936626_1.jpg",
+            "categoryId": 51702,
+            "categoryName": "국내도서>대학교재/전문서적>공학계열>공학일반",
+            "publisher": "학산미디어",
+            "salesPoint": 145,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329015639&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329015639&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=329015639&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "핵심만 골라 배우는 SwiftUI 기반의 iOS 프로그래밍 - SwiftUI, Xcode, 스위프트 언어로 iOS 앱 개발하기, 개정증보판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324198014&partner=openAPI&start=api",
+            "author": "닐 스미스 (지은이), 황반석 (옮긴이)",
+            "pubDate": "2023-09-22",
+            "description": "SwiftUI, Xcode 14 및 스위프트 5.7 프로그래밍 언어를 사용하여 iOS 16 애플리케이션을 만드는 데 필요한 기술을 담았다. iOS 개발 환경 구축부터 친절하게 예제 코드와 함께 설명한다.",
+            "isbn": "K472935992",
+            "isbn13": "9791192987446",
+            "itemId": 324198014,
+            "priceSales": 29700,
+            "priceStandard": 33000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1650,
+            "cover": "https://image.aladin.co.kr/product/32419/80/cover/k472935992_1.jpg",
+            "categoryId": 55978,
+            "categoryName": "국내도서>컴퓨터/모바일>모바일 프로그래밍>아이폰/아이패드",
+            "publisher": "제이펍",
+            "salesPoint": 1569,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "seriesInfo": {
+                "seriesId": 18813,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=18813&partner=openAPI",
+                "seriesName": "아이 러브 모바일 (I♥Mobile) 42"
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 330484412,
+                        "isbn": "E232532310",
+                        "isbn13": "9791192987811",
+                        "priceSales": 23100,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330484412&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=324198014&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=324198014&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=324198014&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "게임 프로그래밍 패턴 - 더 빠르고 깔끔한 게임 코드를 구현하는 13가지 디자인 패턴",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=84101386&partner=openAPI&start=api",
+            "author": "로버트 나이스트롬 (지은이), 박일 (옮긴이)",
+            "pubDate": "2016-06-01",
+            "description": "20년 경력의 개발자가 게임을 만들며 발견한 13가지 패턴을 정리한 책이다. 저자는 GoF의 디자인 패턴을 승계하고 가다듬어 게임에 특화된 프로그래밍 디자인 패턴을 정립했고, 이를 통해 성능을 높이면서도 구조적으로 훌륭한 소프트웨어를 설계하는 법을 알려준다.",
+            "isbn": "896848287X",
+            "isbn13": "9788968482878",
+            "itemId": 84101386,
+            "priceSales": 31500,
+            "priceStandard": 35000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1750,
+            "cover": "https://image.aladin.co.kr/product/8410/13/cover/896848287x_1.jpg",
+            "categoryId": 6720,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>프로그래밍 기초/개발 방법론",
+            "publisher": "한빛미디어",
+            "salesPoint": 1559,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 7,
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 90664402,
+                        "isbn": "E896848287",
+                        "isbn13": "9788968489471",
+                        "priceSales": 24500,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=90664402&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=84101386&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 13,
+                        "minPrice": 25500,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=84101386&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=84101386&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "생각하는 프로그래밍 - 프로그래밍 본질에 관한 15가지 에세이",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34229085&partner=openAPI&start=api",
+            "author": "존 벤틀리 (지은이), 윤성준, 조상민 (옮긴이)",
+            "pubDate": "2013-12-24",
+            "description": "프로그래밍에서 이런 사고력 훈련의 첫걸음은 데이터 구조나 알고리즘 같은 기초를 적절히 학습하고 이를 코드로 구현하고 단계적으로 개선해 가는 것으로 시작할 수 있다. 이 책은 이런 수련을 하는 데 유용한 고전이다.",
+            "isbn": "8966260993",
+            "isbn13": "9788966260997",
+            "itemId": 34229085,
+            "priceSales": 19800,
+            "priceStandard": 22000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1100,
+            "cover": "https://image.aladin.co.kr/product/3422/90/cover/8966260993_1.jpg",
+            "categoryId": 6720,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>프로그래밍 기초/개발 방법론",
+            "publisher": "인사이트",
+            "salesPoint": 1515,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "seriesInfo": {
+                "seriesId": 15982,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=15982&partner=openAPI",
+                "seriesName": "프로그램 프로그래밍 프로그래머 1"
+            },
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=34229085&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 23,
+                        "minPrice": 8500,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=34229085&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 3,
+                        "minPrice": 10500,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=34229085&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "스위프트 프로그래밍 - 객체지향, 함수형, 프로토콜 지향 패러다임까지 한 번에! (Swift5), 3판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=208610659&partner=openAPI&start=api",
+            "author": "야곰 (지은이)",
+            "pubDate": "2019-10-01",
+            "description": "'스위프트를 제대로 이해하자'라는 콘셉트를 충실히 지키고자 스위프트의 기본 개념과 함께 함수형 및 프로토콜 지향 프로그래밍 패러다임을 이용하는 스위프트 프로그래밍 방법론을 소개한다.",
+            "isbn": "K962636971",
+            "isbn13": "9791162242223",
+            "itemId": 208610659,
+            "priceSales": 28800,
+            "priceStandard": 32000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1600,
+            "cover": "https://image.aladin.co.kr/product/20861/6/cover/k962636971_1.jpg",
+            "categoryId": 55981,
+            "categoryName": "국내도서>컴퓨터/모바일>모바일 프로그래밍>모바일/임베디드",
+            "publisher": "한빛미디어",
+            "salesPoint": 1461,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 214288163,
+                        "isbn": "EK96263697",
+                        "isbn13": "9791162248331",
+                        "priceSales": 25600,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=214288163&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=208610659&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 14,
+                        "minPrice": 15000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=208610659&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 13,
+                        "minPrice": 15900,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=208610659&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "게임 서버 프로그래밍 교과서 - 프라우드넷 개발자가 알려주는 게임 서버 개발의 핵심 원리와 노하우",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187641810&partner=openAPI&start=api",
+            "author": "배현직 (지은이)",
+            "pubDate": "2019-04-08",
+            "description": "네트워크 기초부터 고성능 서버 제작 기술까지 프라우드넷 개발자의 경험을 고스란히 담았다. <세븐나이츠>, <마블 퓨처 파이트>, <마비노기 영웅전>, <스트라이트 파이터5> 등 전세계 13개국, 190개 이상의 다양한 게임에서 사용 중인 서버 네트워크 엔진 프라우드넷(ProudNet)을 개발한 저자의 지식과 실전 경험을 담은 책이다.\n",
+            "isbn": "K262635372",
+            "isbn13": "9791160507478",
+            "itemId": 187641810,
+            "priceSales": 31500,
+            "priceStandard": 35000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1750,
+            "cover": "https://image.aladin.co.kr/product/18764/18/cover/k262635372_1.jpg",
+            "categoryId": 2756,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>게임 프로그래밍",
+            "publisher": "길벗",
+            "salesPoint": 1433,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 190013227,
+                        "isbn": "EK26263537",
+                        "isbn13": "9791160507850",
+                        "priceSales": 24500,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=190013227&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=187641810&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 11,
+                        "minPrice": 24000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=187641810&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=187641810&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "C# 프로그래밍 : 프로그래밍 기초부터 객체 지향 핵심까지 - 2판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260275296&partner=openAPI&start=api",
+            "author": "윤인성 (지은이)",
+            "pubDate": "2021-01-05",
+            "description": "IT Cookbook 한빛 교재 시리즈. 객체 지향 프로그래밍 기초를 시작으로 .NET 프레임워크, 델리게이터, Linq 등 C#만의 특장점까지 학습할 수 있도록 구성된 책이다. 객체 지향 언어를 최대한 일반화해서 다루기 때문에 다른 객체 지향 언어를 공부할 때에도 많은 도움이 된다.",
+            "isbn": "K902737857",
+            "isbn13": "9791156645238",
+            "itemId": 260275296,
+            "priceSales": 26000,
+            "priceStandard": 26000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 0,
+            "cover": "https://image.aladin.co.kr/product/26027/52/cover/k902737857_1.jpg",
+            "categoryId": 6360,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>.NET>C#",
+            "publisher": "한빛아카데미(교재)",
+            "salesPoint": 1409,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 6,
+            "seriesInfo": {
+                "seriesId": 13045,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=13045&partner=openAPI",
+                "seriesName": "IT Cookbook 한빛 교재 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 274260389,
+                        "isbn": "E632538025",
+                        "isbn13": "9791156648321",
+                        "priceSales": 26000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274260389&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=260275296&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 23,
+                        "minPrice": 10530,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=260275296&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 6,
+                        "minPrice": 14500,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=260275296&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "만들면서 배우는 러스트 프로그래밍 - 다양한 예제로 쉽게 익히고 널리 활용하는 고효율 언어 Rust 실전 가이드",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307691083&partner=openAPI&start=api",
+            "author": "쿠지라 히코우즈쿠에 (지은이), 양현 (옮긴이)",
+            "pubDate": "2023-01-03",
+            "description": "러스트 코드와 파이썬 코드를 비교하면서도 효율적으로 러스트를 배울 수 있는 콘셉트로 만들어졌다. 다양한 소스 코드를 수록해 러스트를 조금 더 쉽게 배울 수 있도록 했으며, 중복 설명이나 불필요한 예제를 생략해 러스트의 매력에 더 집중할 수 있게 했다.",
+            "isbn": "K562830653",
+            "isbn13": "9791158393908",
+            "itemId": 307691083,
+            "priceSales": 28800,
+            "priceStandard": 32000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1600,
+            "cover": "https://image.aladin.co.kr/product/30769/10/cover/k562830653_1.jpg",
+            "categoryId": 6720,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 개발/방법론>프로그래밍 기초/개발 방법론",
+            "publisher": "위키북스",
+            "salesPoint": 1348,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "seriesInfo": {
+                "seriesId": 13035,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=13035&partner=openAPI",
+                "seriesName": "위키북스 프로그래밍 & 프랙티스 시리즈 31"
+            },
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=307691083&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 10,
+                        "minPrice": 25000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=307691083&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=307691083&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "Do it! 안드로이드 앱 프로그래밍 - 자바로 모바일 앱 개발하기, 개정8판",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=274215195&partner=openAPI&start=api",
+            "author": "정재곤 (지은이)",
+            "pubDate": "2021-06-28",
+            "description": "안드로이드 11 버전과 안드로이드 스튜디오 4.2 버전을 반영한 《Do it! 안드로이드 앱 프로그래밍》의 개정 8판이 나왔다. 이번 개정판에도 입문자를 위한 안드로이드 스튜디오 사용법을 담았고, 그동안 독자에게 받은 질문 등을 반영해 편의와 완성도를 높였다.",
+            "isbn": "K572733175",
+            "isbn13": "9791163032625",
+            "itemId": 274215195,
+            "priceSales": 36000,
+            "priceStandard": 40000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 2000,
+            "cover": "https://image.aladin.co.kr/product/27421/51/cover/k572733175_1.jpg",
+            "categoryId": 55979,
+            "categoryName": "국내도서>컴퓨터/모바일>모바일 프로그래밍>안드로이드",
+            "publisher": "이지스퍼블리싱",
+            "salesPoint": 1337,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 7,
+            "seriesInfo": {
+                "seriesId": 28311,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=28311&partner=openAPI",
+                "seriesName": "Do it! 시리즈 "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 275011571,
+                        "isbn": "E192538425",
+                        "isbn13": "9791163032694",
+                        "priceSales": 28000,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=275011571&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=274215195&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 42,
+                        "minPrice": 12000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=274215195&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 15,
+                        "minPrice": 20000,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=274215195&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "Tucker의 Go 언어 프로그래밍 - Golang 입문부터 고급 기법까지, 재미있는 4가지 프로젝트와 함께, 2021 세종도서 학술부문 선정작",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=268879925&partner=openAPI&start=api",
+            "author": "공봉식 (지은이)",
+            "pubDate": "2021-04-12",
+            "description": "구글이 개발한 Go는 고성능 비동기 프로그래밍에 유용한 언어다. 이 책은 Go 언어로 '나만의 프로그램'을 만들 수 있게 이끌어준다. 프로그래밍 초보자도 쉽고 명확하게 이해할 수 있도록 학습 목표를 일목요연하게 제시하고 핵심 내용을 정리해 보여준다.",
+            "isbn": "K112730402",
+            "isbn13": "9791197149801",
+            "itemId": 268879925,
+            "priceSales": 37800,
+            "priceStandard": 42000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 2100,
+            "cover": "https://image.aladin.co.kr/product/26887/99/cover/k112730402_2.jpg",
+            "categoryId": 6357,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>프로그래밍 언어 기타",
+            "publisher": "골든래빗(주)",
+            "salesPoint": 1313,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 10,
+            "seriesInfo": {
+                "seriesId": 975226,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=975226&partner=openAPI",
+                "seriesName": "Must Have "
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 269823719,
+                        "isbn": "E862538699",
+                        "isbn13": "9791197149818",
+                        "priceSales": 33600,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=269823719&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=268879925&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 16,
+                        "minPrice": 26500,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=268879925&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 2,
+                        "minPrice": 21100,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=268879925&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "DirectX 12를 이용한 3D 게임 프로그래밍 입문 - 게임 개발 중심으로 익히는 대화식 컴퓨터 그래픽 프로그래밍",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=109637896&partner=openAPI&start=api",
+            "author": "프랭크 D. 루나 (지은이), 류광 (옮긴이)",
+            "pubDate": "2017-05-25",
+            "description": "DirectX 12로 게임을 개발해가며 대화식 컴퓨터 그래픽 프로그래밍을 익히는 입문서다. 1부는 기본적인 수학적 도구들을, 2부는 Direct3D의 기본 과제들을 수행하는 방법을, 그리고 3부는 여러 응용 기법과 특수 효과를 설명한다.",
+            "isbn": "8968487790",
+            "isbn13": "9788968487798",
+            "itemId": 109637896,
+            "priceSales": 45000,
+            "priceStandard": 50000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 2500,
+            "cover": "https://image.aladin.co.kr/product/10963/78/cover/8968487790_1.jpg",
+            "categoryId": 2632,
+            "categoryName": "국내도서>컴퓨터/모바일>그래픽/멀티미디어>그래픽 일반",
+            "publisher": "한빛미디어",
+            "salesPoint": 1272,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "subInfo": {
+                "ebookList": [],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=109637896&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 20,
+                        "minPrice": 35980,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=109637896&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=109637896&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        },
+        {
+            "title": "시작하세요! C# 10 프로그래밍",
+            "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303298623&partner=openAPI&start=api",
+            "author": "정성태 (지은이)",
+            "pubDate": "2022-10-27",
+            "description": "C#을 이용해 프로그래밍 기초를 탄탄하게 다질 수 있게 한다. C# 언어의 최신 버전인 C# 10의 문법까지 구체적인 예제와 함께 상세히 설명하며, 단순히 언어의 문법을 습득하는 데 그치지 않고 실제로 프로그램을 제작할 수 있는 단계까지 학습할 수 있게 구성했다.",
+            "isbn": "K692839232",
+            "isbn13": "9791158393724",
+            "itemId": 303298623,
+            "priceSales": 32400,
+            "priceStandard": 36000,
+            "mallType": "BOOK",
+            "stockStatus": "",
+            "mileage": 1800,
+            "cover": "https://image.aladin.co.kr/product/30329/86/cover/k692839232_1.jpg",
+            "categoryId": 6385,
+            "categoryName": "국내도서>컴퓨터/모바일>프로그래밍 언어>C",
+            "publisher": "위키북스",
+            "salesPoint": 1266,
+            "adult": false,
+            "fixedPrice": true,
+            "customerReviewRank": 0,
+            "seriesInfo": {
+                "seriesId": 13035,
+                "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=13035&partner=openAPI",
+                "seriesName": "위키북스 프로그래밍 & 프랙티스 시리즈 30"
+            },
+            "subInfo": {
+                "ebookList": [
+                    {
+                        "itemId": 310134173,
+                        "isbn": "E952531278",
+                        "isbn13": "9791158394103",
+                        "priceSales": 25200,
+                        "link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310134173&partner=openAPI"
+                    }
+                ],
+                "usedList": {
+                    "aladinUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=303298623&TabType=2&partner=openAPI"
+                    },
+                    "userUsed": {
+                        "itemCount": 14,
+                        "minPrice": 23800,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=303298623&TabType=1&partner=openAPI"
+                    },
+                    "spaceUsed": {
+                        "itemCount": 0,
+                        "minPrice": 0,
+                        "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=303298623&TabType=3&partner=openAPI"
+                    }
+                }
+            }
+        }
+    ]
+}
